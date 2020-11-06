@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         Debug.Log("Mr. Suter was here");
+        Debug.Log("Mr. Hunter has arrived");
     }
 
     // Update is called once per frame
