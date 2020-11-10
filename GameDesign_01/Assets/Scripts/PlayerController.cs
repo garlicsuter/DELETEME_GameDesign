@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     void Start()
     {
+        Debug.Log("Adam was here");
         Debug.Log("Mr. Suter was here 11/10");
         Debug.Log("Mr. Hunter has arrived.");
         Debug.Log("DB was here 11/10");
